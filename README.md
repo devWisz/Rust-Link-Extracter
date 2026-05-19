@@ -1,1 +1,1 @@
-"# Rust-Link-Extracter" 
+Rust link extracter is a cli based project that extracts any link

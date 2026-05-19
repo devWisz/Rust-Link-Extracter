@@ -3,10 +3,9 @@ name = "tintin"
 version = "0.1.0"
 edition = "2024"
 
+
 [dependencies]
-
-
-error-chain = "0.12.4"
-request = "0.11.12"
-tokio = {version = "1.21.1", features = ["full"]}
-select = "0.5.0"
+tokio = { version = "1", features = ["full"] }
+reqwest = "0.11"
+select = "0.5"
+anyhow = "1"

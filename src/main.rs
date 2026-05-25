@@ -18,5 +18,5 @@ async fn main() -> Result<()> {
         println!("{}", link);
     }
 
-    Ok(())
-} 
+    Ok(())  
+}

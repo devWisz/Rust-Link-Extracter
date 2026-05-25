@@ -94,5 +94,4 @@ https://doc.rust-lang.org/
 
 ## Open Source
 
-This project is open-source and free to use for educational and personal purposes.
-
+This project is open-source and free to use for educational and personal purposes. 
